@@ -13,8 +13,8 @@ A Python web scraper that extracts titles and links from articles using Beautifu
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ArticleScraper.git
-cd ArticleScraper
+git clone https://github.com/yourusername/article-scraper.git
+cd article-scraper
 
 # Install dependencies
 pip install -r requirements.txt
